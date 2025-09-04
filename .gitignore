@@ -1,0 +1,12 @@
+# Ignore dataset folders
+seg_train/
+seg_test/
+seg_pred/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
