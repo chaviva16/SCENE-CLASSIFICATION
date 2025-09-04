@@ -34,12 +34,11 @@ The app currently recognizes:
 - **Git LFS** — handles the large `.keras` model file efficiently  
 
 ---
-## project structure
-├── app.py    
-├── scene_classification_final.keras 
-├── requirements.txt 
-├── .gitignore 
-└── README.md 
+## Project Files
+- `app.py` → Streamlit app for deployment
+- `scene_classification_final.keras` → Trained model
+- `SCENE CLASSIFICATION.ipynb` → Full training notebook (model building & evaluation)
+- `requirements.txt` → Dependencies for running locally or on Streamlit
 
 
 ---
