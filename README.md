@@ -35,11 +35,11 @@ The app currently recognizes:
 
 ---
 ## project structure
-├── app.py # Streamlit application
-├── scene_classification_final.keras # Trained model (Git LFS)
-├── requirements.txt # Dependencies
-├── .gitignore # Files excluded from repo
-└── README.md # This file
+├── app.py    
+├── scene_classification_final.keras 
+├── requirements.txt 
+├── .gitignore 
+└── README.md 
 
 
 ---
@@ -82,6 +82,4 @@ To deploy your own copy:
 
 ---
 
-
-##  Project Structure
 
